@@ -1,0 +1,38 @@
+h1{
+    border-style:solid dotted dashed ridge;
+    border-bottom: none;
+    border-width:5px 10px 15px 20px;
+    border-color: aqua plum crimson saddlebrown;
+    border-radius: 5px;
+}
+
+p{
+    color: red;
+}
+/*.class1{
+    background-image: url("images/car.jpg");
+    background-repeat: no-repeat;
+    height:1000px;
+    width:2000px;
+    background-attachment: fixed;
+    background-position: top center;
+    
+}*/
+.class1{
+    background: fixed #fff
+        url("images/car.jpg") no-repeat right top;
+}
+.class1 p{
+    color: blue;
+}
+.class1 h1{
+    color: rebeccapurple;
+}
+/*.class1 #pfirst{
+    background-color: crimson;
+}*/
+.class2{
+    height:500px;
+        width:500px;
+        border: 5px dashed gold;
+}

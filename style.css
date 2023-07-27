@@ -20,7 +20,7 @@ p{
 }*/
 .class1{
     background: fixed #fff
-        url("images/car.jpg") no-repeat right top;
+        url("car.jpg") no-repeat right top;
 }
 .class1 p{
     color: blue;

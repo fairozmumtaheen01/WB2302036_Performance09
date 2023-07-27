@@ -9,7 +9,7 @@ h1{
 p{
     color: red;
 }
-/*.class1{
+.class1{
     background-image: url("car.jpg");
     background-repeat: no-repeat;
     height:1000px;
@@ -17,11 +17,11 @@ p{
     background-attachment: fixed;
     background-position: top center;
     
-}*/
-.class1{
+}
+/*.class1{
     background: fixed #fff
         url("car.jpg") no-repeat right top;
-}
+}*/
 .class1 p{
     color: blue;
 }
